@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SUB</string>
+    <string name="load">Loading...</string>
+    <string name="version">App Version: 13.1.0.0</string>
+    <string name="configured">--This app is configured by--</string>
+    <string name="name">Md. Humayun Kobir</string>
+    <string name="dept">(Department of Computer Science)</string>
+    <string name="mail">Mail: hkobir10@gmail.com</string>
+    <string name="privecy">Privacy and Policy:</string>
+    <string name="privacytext">This apps is  act as representation kit of website of Stamford University Bangladesh. which will be more efficent rather than enter a browser frequently.
+    so I hope its will be helpful for university faculty and students as shortly nose out.
+    But for more better visualization and functionality, of course pc is better choice. Thank You.</string>
+    <string name="uname">Your Name/Email</string>
+    <string name="feedback">Your Feedback</string>
+    <string name="send">Send</string>
+    <string name="clear">Clear</string>
+</resources>
